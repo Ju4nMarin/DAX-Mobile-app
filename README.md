@@ -10,4 +10,12 @@ LandingScreen:
 
 RoomRouteScreen:
 
-![image](https://user-images.githubusercontent.com/80414695/203235641-fac0bcf3-88d7-429a-86b0-8f82b991c303.png)
+![Captura2](https://user-images.githubusercontent.com/80414695/203235978-03d85c1c-735e-4dbe-b91e-5cbe9cee46d8.PNG)
+
+SelectRoomScreen:
+
+![Captura4](https://user-images.githubusercontent.com/80414695/203236015-a43135e0-bf6b-4415-a7d3-11264d597042.PNG)
+
+SelectFloorScreen:
+
+![Captura3](https://user-images.githubusercontent.com/80414695/203236028-4026aca8-e9e4-45a1-9e19-8d764c373fc1.PNG)
